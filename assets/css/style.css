@@ -33,7 +33,7 @@ header {
 }
 
 .logo {
-    background: #4aaaa5;
+    background: #147efb;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     font-size: 30px;
@@ -66,17 +66,17 @@ h2 {
     font-size: 30px;
     line-height: 49px;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #4aaaa5;
+    color: #147efb;
 }
 
 h3 {
-    background: #4aaaa5;
+    background: #147efb;
     width: 89.5%;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 .btn {
-    background: #4aaaa5;
+    background: #147efb;
     color: #ffffff;
 }
 
